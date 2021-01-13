@@ -1,0 +1,2 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\WixSolution\SetupProjectWix\bin\Debug\SetupProjectWix.msi
+C:\Users\Anastasiia.Posulikhi\RiderProjects\WixSolution\SetupProjectWix\bin\Debug\SetupProjectWix.wixpdb

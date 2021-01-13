@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfSolution", "WpfSolution\WpfSolution.csproj", "{4D176671-FD3F-490C-9ECB-B9D3419F1C01}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "BootstrapperWix", "BootstrapperWix\BootstrapperWix.wixproj", "{B2AED6D0-254A-43C6-87BD-07ACA86F893F}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "MergeModuleWix", "MergeModuleWix\MergeModuleWix.wixproj", "{F56D642F-6B91-405C-9AAB-FFC6E79F1683}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SetupLibraryWix", "SetupLibraryWix\SetupLibraryWix.wixproj", "{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SetupProjectWix", "SetupProjectWix\SetupProjectWix.wixproj", "{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Debug|x86.Build.0 = Debug|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Release|x86.ActiveCfg = Release|Any CPU
+		{4D176671-FD3F-490C-9ECB-B9D3419F1C01}.Release|x86.Build.0 = Release|Any CPU
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Debug|x86.ActiveCfg = Debug|x86
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Debug|x86.Build.0 = Debug|x86
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Release|Any CPU.ActiveCfg = Release|x86
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Release|x86.ActiveCfg = Release|x86
+		{B2AED6D0-254A-43C6-87BD-07ACA86F893F}.Release|x86.Build.0 = Release|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Debug|x86.ActiveCfg = Debug|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Debug|x86.Build.0 = Debug|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Release|Any CPU.ActiveCfg = Release|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Release|x86.ActiveCfg = Release|x86
+		{F56D642F-6B91-405C-9AAB-FFC6E79F1683}.Release|x86.Build.0 = Release|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Debug|x86.ActiveCfg = Debug|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Debug|x86.Build.0 = Debug|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Release|Any CPU.ActiveCfg = Release|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Release|x86.ActiveCfg = Release|x86
+		{F6518233-2B8A-4BF3-9E58-F5D68E9BDBF9}.Release|x86.Build.0 = Release|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Debug|x86.ActiveCfg = Debug|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Debug|x86.Build.0 = Debug|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Release|Any CPU.ActiveCfg = Release|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Release|x86.ActiveCfg = Release|x86
+		{ED28FB5E-24CF-44DD-AF20-2EEE0C9B6A1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A281156B-C896-490C-AAD3-C7B447D25625}
+	EndGlobalSection
+EndGlobal

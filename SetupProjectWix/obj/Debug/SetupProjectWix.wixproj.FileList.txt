@@ -1,0 +1,6 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\WixSolution\SetupProjectWix\bin\Debug\SetupProjectWix.msi
+C:\Users\Anastasiia.Posulikhi\RiderProjects\WixSolution\SetupProjectWix\bin\Debug\SetupProjectWix.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SetupProjectWix.wixproj.BindContentsFileListnull.txt
+obj\Debug\SetupProjectWix.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SetupProjectWix.wixproj.BindBuiltOutputsFileListnull.txt
